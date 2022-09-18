@@ -8,7 +8,7 @@ public class Main {
     public static void main(String[] args) throws ArraySizeException, ArrayDataException {
 
         String[][] array = {{"1234", "1234", "1234", "1234"}, {"5678", "1234", "1234", "1234"},
-                {"9101", "1234", "1234", "1234"}, {"1214", "1234", "1234", "1234"}};
+                {"9101", "1234", "1234", "1234"}, {"1234", "1234", "1234", "1234"}};
 
         ArrayValueCalculator avc = new ArrayValueCalculator();
 
